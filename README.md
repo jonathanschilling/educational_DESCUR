@@ -17,6 +17,7 @@ Here is how it works:
  * The DESCUR executable `xdescur` is then located in `build/bin` with respect to the main folder.
 
 ## Example Execution
+ * Create a directory `test` in the main folder: `mkdir test`
  * Change into the `test` dir: `cd test`
  * Run DESCUR: `../build/bin/xdescur`
  * Provide the following interactive information:
