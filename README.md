@@ -65,7 +65,7 @@ Here is how it works:
       ```
  * One last question remains to be answered:
     ``` Do you wish to plot this data (Y/N)? n```
-   (unless you have `DESCUR_PLOT` compiled and installed)
+   (unless you have [`DESCUR_PLOT`](https://github.com/PrincetonUniversity/STELLOPT/tree/v251/DESCUR_PLOT) compiled and installed)
  * The spectrally condensed output is then in the file `outcurve`.
    Some more output can be found in the `plotout` file.
 
